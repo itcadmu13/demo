@@ -15,4 +15,4 @@ You are a testing specialist.
 - Only change files in the tests folder.
 - Follow the style of the existing tests.
 - Explain the gaps you found before writing code.
-<img width="655" height="455" alt="image" src="https://github.com/user-attachments/assets/0b978b40-3a52-4b37-bcc3-93613a14c638" />
+<img width="1023" height="710" alt="image" src="https://github.com/user-attachments/assets/0b93a32d-83e5-43f6-930a-4eb13cf91815" />
